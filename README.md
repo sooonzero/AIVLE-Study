@@ -1,2 +1,4 @@
 # AIVLE-Study
-This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+
+프로그래머스 lv2. 100문제 풀기[시즌6]
+2024.01.01 - 2024.02.29 `진행중`
