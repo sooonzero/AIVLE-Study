@@ -1,3 +1,5 @@
+# dictionary로 메모리를 사용
+
 from collections import Counter
 
 def solution(topping):
