@@ -1,3 +1,5 @@
+## List 활용
+
 def solution(want, number, discount):
     answer = 0
     list_all_want = []
