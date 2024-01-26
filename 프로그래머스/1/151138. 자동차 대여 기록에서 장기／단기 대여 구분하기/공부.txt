@@ -1,0 +1,10 @@
+날짜 빼기
+DATEDIFF(END_DATE, START_DATE)+1
++1 하는 이유: 하루 빌려도 1일 빌린거
+
+날짜 형식 변환
+DATE_FORMAT(START_DATE, '%Y-%m-%d')
+
+날짜 범위 지정
+기존에는 AND를 활용해서 SATRT_DATE >= '2022-09-01' AND START_DATE < '2022-10-01' 로 작성했지만
+LIKE를 활용하면 더 정확하고 간단하게 작성 가능  START_DATE LIKE '2022-09%'
