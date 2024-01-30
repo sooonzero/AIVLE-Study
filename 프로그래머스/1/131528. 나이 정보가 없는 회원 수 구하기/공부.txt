@@ -1,0 +1,2 @@
+NULL 값 세기
+WHERE 'NULL값을 찾고자하는' IS NULL
