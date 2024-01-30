@@ -1,0 +1,2 @@
+NULL 값이 아닌 항목 찾기
+WHERE 찾고자하는거 IS NOT NULL
