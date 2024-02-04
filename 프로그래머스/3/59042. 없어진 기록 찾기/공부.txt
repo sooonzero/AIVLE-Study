@@ -1,0 +1,2 @@
+OUTER JOIN 할 때
+LEFT OUTER JOIN 이거나 RIGHT OUTER 조인으로 하기
